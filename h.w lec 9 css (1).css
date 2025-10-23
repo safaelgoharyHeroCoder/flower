@@ -1,0 +1,160 @@
+#style {
+	background-image: url(https://pbs.twimg.com/media/FEVCAiIXMAwowSe?format=jpg&name=large);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#logo {
+	border-radius: 80px;
+	height: 140px;
+	margin: 10px 1px 10px 10px;
+	position: fixed;
+	top: 50px;
+}
+#p1 {
+	font-family: "Story Script";
+	font-size: 20;
+	display: inline-block;
+	color: white;
+	margin:150px 0px 0px 150px;
+}
+ #image1 {
+ 	border-radius: 50px;
+ 	height: 60px;
+ }
+ #image2 {
+ 	border-radius: 50px;
+ 	height: 60px;
+ }
+ #image3 {
+ 	border-radius: 50px;
+ 	height: 60px;
+ }
+ .logos {
+ 	list-style-type: none;
+ 	display: inline-block;
+ 	position: fixed;
+ 	top: 105px;
+ 	right: 100px;
+ 	background-color: rgb(222, 131, 131, .4);
+ 	border-radius: 40px;
+ }
+ .logos li {
+ 	display: inline-block;
+ 	padding: 10px;
+ }
+ .lest {
+ 	border-style: solid;
+ 	border-color: rgb(222, 131, 131);
+ 	border-radius: 15px;
+ 	background-color: rgb(222, 131, 131, .7);
+ 	list-style-type: none;
+ 	display: inline-block;
+ 	margin: 5px;
+ 	font-family: "Playfair Display";
+ 	font-size: 20;
+ 	position: fixed;
+ 	top: 130px;
+ 	left: 330px;
+ }
+ .lest li {
+ 	display: inline-block;
+ 	padding: 10px;
+ }
+ #header1 {
+ 	font-family: "Jokerman Regular";
+ 	font-size: 60;
+ 	color: white;
+ 	margin: 100px 5px 0px;
+ }
+ .paragraph {
+ 	font-family: "Freestyle Script Regular";
+ 	font-size: 30px;
+ 	color: white;
+ 	margin: 20px 0px 0px 20px;
+ 	position: static;
+ }
+ #button1 {
+ 	border-style: solid;
+ 	width: 150px;
+ 	height: 70px;
+ 	background-color: #a3635f;
+ 	margin: 20px;
+ 	font-size: 20px;
+ }
+ .types {
+ 	background-color: #f0b1ad;
+ }
+ #paragraph1 {
+ 	font-family: "Freestyle Script Regular";
+ 	font-size: 30;
+ 	padding: 15px;
+ }
+ .roses {
+ 	height: 150px;
+ 	width: 200px;
+   margin: 15px;
+ 	border-style: solid;
+ 	border-color: black;
+ 	border-radius: 15px;
+ }
+ img.roses:hover {
+ 	height: 250px;
+ 	width: 300px;
+ }
+ .information1 {
+ 	display: inline-block;
+ 	background-color: #e3aaaa;
+ }
+ .information2 {
+ 	width: 410.8px;
+ 	display: inline-block;
+ }
+ .information3 {
+ 	font-size: 19px;
+ 	width: 410.8px;
+ 	display: inline-block;
+ }
+ .information4 {
+ 	width: 410.8px;
+ 	display: inline-block;
+ }
+ .img1 {
+ 	height: 100px;
+ 	width: 100px;
+ 	margin: 15px 250px 0px 150px;
+ }
+ .header {
+ 	text-align: center;
+ }
+ .button2 {
+ 	background-color: lightpink;
+ 	border-style: solid;
+  height: 40px;
+  margin: 15px;
+ }
+ #div2 {
+ 	background-image: url(https://www.sowartix.com/wp-content/uploads/2017/09/large-25-1.jpg);
+ 	background-size: cover;
+ 	display: inline-block;
+ 	width: 100%;
+ }
+ #div3 {
+ 	border-style: solid;
+ 	border-radius: 20px;
+ 	background-color: rgb(222, 131, 131, .2);
+ 	border-color: rgb(222, 131, 131);
+ 	height: 300px;
+ 	width: 500px;
+ 	margin: 50px;
+ }
+ #header2 {
+ 	text-align: center;
+ }
+ #button3 {
+ 	direction: rtl;
+ 	margin:5px 200px 20px ;
+ 	background-color: rgb(222, 131, 131);
+ 	height: 40px;
+ 	width: 100px;
+ 	border-style: solid;
+ }
